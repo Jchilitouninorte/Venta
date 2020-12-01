@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\NEOLAND\\Código\\Proyecto_de_ejemplo"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Paypal_project"
+	}
+}
